@@ -1,0 +1,11 @@
+dto/UserDTO.class
+contoller/UserController.class
+repo/UserRepo.class
+repo/TaskRepo.class
+com/athome/application/Application.class
+contoller/HouseholdController.class
+model/User.class
+repo/HouseholdRepo.class
+model/Task.class
+model/Household.class
+contoller/TaskController.class

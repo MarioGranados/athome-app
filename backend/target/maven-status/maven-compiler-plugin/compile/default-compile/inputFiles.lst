@@ -1,0 +1,11 @@
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/com/athome/application/Application.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/contoller/HouseholdController.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/contoller/TaskController.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/contoller/UserController.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/dto/UserDTO.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/model/Household.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/model/Task.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/model/User.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/repo/HouseholdRepo.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/repo/TaskRepo.java
+/Users/mariogranados/Desktop/WebStuff/athome-app/backend/src/main/java/repo/UserRepo.java
